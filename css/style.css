@@ -1,7 +1,7 @@
 p {
     display: inline-block;
 }
-h1,h3,h5,h6 {
+h1,h3,h4,h5,h6 {
     margin: 0%;
 }
 h1 {
@@ -24,6 +24,14 @@ h5 {
     margin-bottom: 20px;
 }
 
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.riga-azzurra {
+    background-color: #b1e5f2;
+}
 
 #booleaner-mark {
     color: #36b1e8;
