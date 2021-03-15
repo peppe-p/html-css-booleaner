@@ -24,6 +24,21 @@ h5 {
     margin-bottom: 20px;
 }
 
+table, thead, tbody {
+    border-collapse: collapse;
+    text-align: left;
+    
+}
+
+td.space {
+    padding: 10px 0 10px 0;
+    width: 300px;
+}
+
+table {
+    width: 100%;
+}
+
 thead {
     background-color: #20a9e5;
     color: white;
