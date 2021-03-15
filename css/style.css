@@ -1,7 +1,23 @@
-#logo {
-    width: 20%;
+p {
+    display: inline-block;
+}
+h1,h3,h5,h6 {
+    margin: 0%;
+}
+h1 {
+    font-size: 30px;
+    margin-top: 25px;
 }
 
-.lol {
-    background-color: darkred;
+h3,h5 {
+    color: #8d8d8d;
+}
+
+h5 {
+    margin-bottom: 20px;
+}
+
+
+#booleaner-mark {
+    color: #36b1e8;
 }
