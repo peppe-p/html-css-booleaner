@@ -9,6 +9,13 @@ h1 {
     margin-top: 25px;
 }
 
+h4 {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+}
+
 h3,h5 {
     color: #8d8d8d;
 }
